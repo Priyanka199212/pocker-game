@@ -8,4 +8,4 @@ It is already built on the jar file. You can also open the project on Eclipse an
 Afterwards you should use piping to run the jar file passing the file poker-hands.txt through stdin, using the terminal or prompt.
 
 On linux:
-$ cat poker-hands.txt | java -jar poker.jar
+$ cat poker-hands.txt | java -jar pokerhandsort.jar
