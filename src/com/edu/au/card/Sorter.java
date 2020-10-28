@@ -21,6 +21,8 @@ public class Sorter {
 
 		try {
 			br = new BufferedReader(new InputStreamReader(System.in));
+			//br = new BufferedReader(
+//					new FileReader("/Users/Priyank/Desktop/pokerGame/poker-hands.txt"));
 			// main loop for piping through stdin
 			while (true) {
 				String input = br.readLine();
