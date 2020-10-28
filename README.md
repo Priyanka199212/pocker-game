@@ -11,5 +11,5 @@ On linux:
 $ cat poker-hands.txt | java -jar pokerhandsort.jar
 
 # How to build
-Player 1: 263 hands
+Player 1: 263 hands </br>
 Player 2: 237 hands
