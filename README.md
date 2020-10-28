@@ -9,3 +9,7 @@ Afterwards you should use piping to run the jar file passing the file poker-hand
 
 On linux:
 $ cat poker-hands.txt | java -jar pokerhandsort.jar
+
+# How to build
+Player 1: 263 hands
+Player 2: 237 hands
